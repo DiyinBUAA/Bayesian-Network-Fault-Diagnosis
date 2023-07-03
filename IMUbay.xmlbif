@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BIF VERSION="0.3">
+  <NETWORK>
+    <NAME>UNTITLED</NAME>
+    <VARIABLE TYPE="nature">
+      <NAME>C1</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>C2</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>C3</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test1</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test2</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test3</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test4</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test5</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <DEFINITION>
+      <FOR>C1</FOR>
+      <TABLE>0.3195 0.6805 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>C2</FOR>
+      <TABLE>0.1681 0.8319 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>C3</FOR>
+      <TABLE>0.5333 0.4667 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test1</FOR>
+      <GIVEN>C1</GIVEN>
+      <GIVEN>C2</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test2</FOR>
+      <GIVEN>C1</GIVEN>
+      <GIVEN>C2</GIVEN>
+      <GIVEN>C3</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test3</FOR>
+      <GIVEN>C1</GIVEN>
+      <GIVEN>C2</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test4</FOR>
+      <GIVEN>C1</GIVEN>
+      <GIVEN>C3</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test5</FOR>
+      <GIVEN>C1</GIVEN>
+      <GIVEN>C2</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+  </NETWORK>
+</BIF>

@@ -1,0 +1,2760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BIF VERSION="0.3">
+  <NETWORK>
+    <NAME>UNTITLED</NAME>
+    <VARIABLE TYPE="nature">
+      <NAME>1R2601</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R2602</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R2603A22N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R2620</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R2621A20N</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R2632</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R2633A20N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R4604</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R4605</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R4622</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R4624</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R4634</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R4637</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1R4638</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RN4401</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RV2001</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RV2002</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RV4004</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ2001</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ2003A22N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4203</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4204</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4205</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4207</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4213</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4214</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4215</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4260</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4261</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>1RZ4262</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-07-01-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-07-01-00.03</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-00-00.18</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-00-00.28</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-00-00.50</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-00-00.58</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-01-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-01-00.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-05-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-11-05-00.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-01-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-01-00.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-03-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-03-00.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-05-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-05-00.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-05-00.03</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-07-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-07-00.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-07-00.03</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-01.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-01.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-01.03</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-02.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-02.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-02.03</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-03.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-51-10-03.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-81-01-00.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-81-01-00.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-07.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-07.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-11.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-11.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-11.05</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-11.06</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-11.09</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-11.10</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-11.11</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.14</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.15</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.17</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.18</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.19</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.20</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.21</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.22</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.23</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.24</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.25</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.26</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.27</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.28</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-50.29</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.03</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.04</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.05</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.06</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.07</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.08</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.09</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.10</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>23-90-81.11</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R2601</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R2603A22N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R2620</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R2621A20N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R2632</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R2633A20N</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R4604</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R4605</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R4622</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R4624</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R4634</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R4637</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2R4638</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RN4401</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RV2001</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RV2002</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RV4004</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ2001</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ2003A22N</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4203</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4204</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4205</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4207</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4213</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4214</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4215</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4260</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4261</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>2RZ4262</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>3RZ4203</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>3RZ4204</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>3Z2407</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>A3-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2219</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2261</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2262</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2263</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2264</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2302</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2312</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2313</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2316</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2317</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>B1-2318</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>C6-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>C6-2302</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>C6-2303</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>C6-2304</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>H3-2304</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>H3-2305</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>H3-2306</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>H4-2303</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>H4-2304</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>H4-2305</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>J1-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>J1-2302</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>J1-2303</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-1013</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-1015</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2260A</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2260D</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2305</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2306</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2307</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2309</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2310</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2312</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2313</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2314</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2317</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2318</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2356</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2372</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P1-2374</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P6-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P6-2302</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>P6-2303</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2302</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2308A</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2308B</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2309A</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2309B</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2371</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>R5-2373</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S1-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S1-2302</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2206W</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2206X</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2301K</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2301R</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2301S</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2301X</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2302S</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2303P</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2303S</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2303V</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2303W</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2304N</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2304R</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2304U</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2311L</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-2311S</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-3103U</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-3204</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-3402N</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-3403M</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>S3-3403W</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>U1-2301</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>U1-2302</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>U1-2320</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>U1-2321</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>U1-2334</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>U1-2336</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>U1-2337</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2605</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2606A14N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2607</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2608A14N</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2609</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2610A14N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2611</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA2612A14N</NAME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA4611A</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA4611G</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UA4634</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>UI-2338</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test01</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test02</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test03</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test04</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test05</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test06</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test11</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test12</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test13</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test14</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test15</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test16</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test17</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test18</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test19</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test20</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test21</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test22</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test25</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test26</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test27</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test29</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>test30</NAME>
+      <OUTCOME>0</OUTCOME>
+      <OUTCOME>1</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <DEFINITION>
+      <FOR>1R2601</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R2602</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R2603A22N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R2620</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R2621A20N</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R2632</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R2633A20N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R4604</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R4605</FOR>
+      <TABLE>0.0024 0.9976 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R4622</FOR>
+      <TABLE>0.001 0.999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R4624</FOR>
+      <TABLE>0.0009 0.9991 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R4634</FOR>
+      <TABLE>0.0009 0.9991 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R4637</FOR>
+      <TABLE>0.0025 0.9975 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1R4638</FOR>
+      <TABLE>0.002 0.998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RN4401</FOR>
+      <TABLE>0.001 0.999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RV2001</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RV2002</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RV4004</FOR>
+      <TABLE>0.0017 0.9983 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ2001</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ2003A22N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4203</FOR>
+      <TABLE>0.0019 0.9981 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4204</FOR>
+      <TABLE>0.0012 0.9988 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4205</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4207</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4213</FOR>
+      <TABLE>0.0023 0.9977 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4214</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4215</FOR>
+      <TABLE>0.0008 0.9992 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4260</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4261</FOR>
+      <TABLE>0.0009 0.9991 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>1RZ4262</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-07-01-00.01</FOR>
+      <GIVEN>UI-2338</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-07-01-00.03</FOR>
+      <GIVEN>U1-2334</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-00-00.18</FOR>
+      <GIVEN>1R4624</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-00-00.28</FOR>
+      <GIVEN>1R4622</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-00-00.50</FOR>
+      <GIVEN>2R4624</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-00-00.58</FOR>
+      <GIVEN>2R4622</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-01-00.01</FOR>
+      <GIVEN>U1-2301</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-01-00.02</FOR>
+      <GIVEN>U1-2302</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-05-00.01</FOR>
+      <GIVEN>A3-2301</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-11-05-00.02</FOR>
+      <GIVEN>A3-2301</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-01-00.01</FOR>
+      <GIVEN>U1-2320</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-01-00.02</FOR>
+      <GIVEN>U1-2321</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-03-00.01</FOR>
+      <GIVEN>S1-2301</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-03-00.02</FOR>
+      <GIVEN>S1-2302</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-05-00.01</FOR>
+      <GIVEN>H4-2303</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-05-00.02</FOR>
+      <GIVEN>H4-2304</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-05-00.03</FOR>
+      <GIVEN>H4-2305</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-07-00.01</FOR>
+      <GIVEN>H3-2304</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-07-00.02</FOR>
+      <GIVEN>H3-2305</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-07-00.03</FOR>
+      <GIVEN>H3-2306</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-01.01</FOR>
+      <GIVEN>P6-2301</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-01.02</FOR>
+      <GIVEN>P6-2302</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-01.03</FOR>
+      <GIVEN>P6-2303</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-02.01</FOR>
+      <GIVEN>P6-2301</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-02.02</FOR>
+      <GIVEN>P6-2302</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-02.03</FOR>
+      <GIVEN>P6-2303</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-03.01</FOR>
+      <GIVEN>P6-2301</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-51-10-03.02</FOR>
+      <GIVEN>P6-2302</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-81-01-00.01</FOR>
+      <GIVEN>U1-2336</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-81-01-00.02</FOR>
+      <GIVEN>U1-2337</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-07.01</FOR>
+      <GIVEN>1R2620</GIVEN>
+      <GIVEN>1R2621A20N</GIVEN>
+      <GIVEN>1R2632</GIVEN>
+      <GIVEN>1R2633A20N</GIVEN>
+      <GIVEN>B1-2219</GIVEN>
+      <GIVEN>B1-2318</GIVEN>
+      <GIVEN>P1-2356</GIVEN>
+      <GIVEN>R5-2308A</GIVEN>
+      <GIVEN>R5-2308B</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-07.02</FOR>
+      <GIVEN>2R2620</GIVEN>
+      <GIVEN>2R2621A20N</GIVEN>
+      <GIVEN>2R2632</GIVEN>
+      <GIVEN>2R2633A20N</GIVEN>
+      <GIVEN>B1-2263</GIVEN>
+      <GIVEN>B1-2264</GIVEN>
+      <GIVEN>R5-2309A</GIVEN>
+      <GIVEN>R5-2309B</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-11.01</FOR>
+      <GIVEN>1RV2001</GIVEN>
+      <GIVEN>1RV2002</GIVEN>
+      <GIVEN>B1-2301</GIVEN>
+      <GIVEN>P1-2356</GIVEN>
+      <GIVEN>R5-2301</GIVEN>
+      <GIVEN>S3-2303P</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-11.02</FOR>
+      <GIVEN>2RV2001</GIVEN>
+      <GIVEN>2RV2002</GIVEN>
+      <GIVEN>B1-2302</GIVEN>
+      <GIVEN>R5-2302</GIVEN>
+      <GIVEN>S3-2304R</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-11.05</FOR>
+      <GIVEN>C6-2301</GIVEN>
+      <GIVEN>C6-2302</GIVEN>
+      <GIVEN>P1-2372</GIVEN>
+      <GIVEN>R5-2301</GIVEN>
+      <GIVEN>R5-2371</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-11.06</FOR>
+      <GIVEN>1R4634</GIVEN>
+      <GIVEN>S3-2303V</GIVEN>
+      <GIVEN>S3-3103U</GIVEN>
+      <GIVEN>UA4611A</GIVEN>
+      <GIVEN>UA4611G</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-11.09</FOR>
+      <GIVEN>C6-2303</GIVEN>
+      <GIVEN>C6-2304</GIVEN>
+      <GIVEN>P1-2374</GIVEN>
+      <GIVEN>R5-2302</GIVEN>
+      <GIVEN>R5-2373</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-11.10</FOR>
+      <GIVEN>1RV4004</GIVEN>
+      <GIVEN>1RZ4213</GIVEN>
+      <GIVEN>1RZ4262</GIVEN>
+      <GIVEN>P1-2305</GIVEN>
+      <GIVEN>S3-2303S</GIVEN>
+      <GIVEN>S3-2303W</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-11.11</FOR>
+      <GIVEN>2RV4004</GIVEN>
+      <GIVEN>2RZ4213</GIVEN>
+      <GIVEN>2RZ4262</GIVEN>
+      <GIVEN>P1-2306</GIVEN>
+      <GIVEN>S3-2304U</GIVEN>
+      <GIVEN>S3-3204</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.01</FOR>
+      <GIVEN>1RZ2001</GIVEN>
+      <GIVEN>1RZ2003A22N</GIVEN>
+      <GIVEN>B1-2312</GIVEN>
+      <GIVEN>P1-2305</GIVEN>
+      <GIVEN>P1-2356</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.02</FOR>
+      <GIVEN>2RZ2001</GIVEN>
+      <GIVEN>2RZ2003A22N</GIVEN>
+      <GIVEN>B1-2313</GIVEN>
+      <GIVEN>P1-2306</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.14</FOR>
+      <GIVEN>1RZ4205</GIVEN>
+      <GIVEN>1RZ4260</GIVEN>
+      <GIVEN>P1-1015</GIVEN>
+      <GIVEN>P1-2305</GIVEN>
+      <GIVEN>P1-2312</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.15</FOR>
+      <GIVEN>2RZ4205</GIVEN>
+      <GIVEN>2RZ4260</GIVEN>
+      <GIVEN>P1-1013</GIVEN>
+      <GIVEN>P1-2306</GIVEN>
+      <GIVEN>P1-2313</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.17</FOR>
+      <GIVEN>1RZ4207</GIVEN>
+      <GIVEN>J1-2301</GIVEN>
+      <GIVEN>P1-2305</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.18</FOR>
+      <GIVEN>1RZ4204</GIVEN>
+      <GIVEN>P1-1015</GIVEN>
+      <GIVEN>P1-2305</GIVEN>
+      <GIVEN>P1-2312</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.19</FOR>
+      <GIVEN>1RZ4203</GIVEN>
+      <GIVEN>P1-1015</GIVEN>
+      <GIVEN>P1-2305</GIVEN>
+      <GIVEN>P1-2312</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.20</FOR>
+      <GIVEN>1RZ4214</GIVEN>
+      <GIVEN>1RZ4215</GIVEN>
+      <GIVEN>P1-2305</GIVEN>
+      <GIVEN>S3-2302S</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.21</FOR>
+      <GIVEN>1RZ4261</GIVEN>
+      <GIVEN>P1-1015</GIVEN>
+      <GIVEN>P1-2312</GIVEN>
+      <GIVEN>P1-2317</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.22</FOR>
+      <GIVEN>2RZ4207</GIVEN>
+      <GIVEN>J1-2302</GIVEN>
+      <GIVEN>P1-2306</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.23</FOR>
+      <GIVEN>2RZ4204</GIVEN>
+      <GIVEN>P1-1013</GIVEN>
+      <GIVEN>P1-2306</GIVEN>
+      <GIVEN>P1-2313</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.24</FOR>
+      <GIVEN>2RZ4203</GIVEN>
+      <GIVEN>P1-1013</GIVEN>
+      <GIVEN>P1-2306</GIVEN>
+      <GIVEN>P1-2313</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.25</FOR>
+      <GIVEN>2RZ4214</GIVEN>
+      <GIVEN>2RZ4215</GIVEN>
+      <GIVEN>P1-2306</GIVEN>
+      <GIVEN>S3-2302S</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.26</FOR>
+      <GIVEN>2RZ4261</GIVEN>
+      <GIVEN>P1-1013</GIVEN>
+      <GIVEN>P1-2313</GIVEN>
+      <GIVEN>P1-2318</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.27</FOR>
+      <GIVEN>3Z2407</GIVEN>
+      <GIVEN>J1-2303</GIVEN>
+      <GIVEN>P1-2307</GIVEN>
+      <GIVEN>P1-2356</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.28</FOR>
+      <GIVEN>3RZ4204</GIVEN>
+      <GIVEN>P1-2307</GIVEN>
+      <GIVEN>P1-2314</GIVEN>
+      <GIVEN>P1-2356</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-50.29</FOR>
+      <GIVEN>3RZ4203</GIVEN>
+      <GIVEN>P1-2307</GIVEN>
+      <GIVEN>P1-2314</GIVEN>
+      <GIVEN>P1-2356</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.01</FOR>
+      <GIVEN>1R2601</GIVEN>
+      <GIVEN>1R2602</GIVEN>
+      <GIVEN>2R2603A22N</GIVEN>
+      <GIVEN>B1-2316</GIVEN>
+      <GIVEN>P1-2309</GIVEN>
+      <GIVEN>P1-2356</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.02</FOR>
+      <GIVEN>1R2603A22N</GIVEN>
+      <GIVEN>2R2601</GIVEN>
+      <GIVEN>B1-2317</GIVEN>
+      <GIVEN>P1-2310</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.03</FOR>
+      <GIVEN>B1-2261</GIVEN>
+      <GIVEN>B1-2262</GIVEN>
+      <GIVEN>P1-2260A</GIVEN>
+      <GIVEN>UA2605</GIVEN>
+      <GIVEN>UA2606A14N</GIVEN>
+      <GIVEN>UA2607</GIVEN>
+      <GIVEN>UA2608A14N</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.04</FOR>
+      <GIVEN>B1-2263</GIVEN>
+      <GIVEN>B1-2264</GIVEN>
+      <GIVEN>P1-2260D</GIVEN>
+      <GIVEN>UA2609</GIVEN>
+      <GIVEN>UA2610A14N</GIVEN>
+      <GIVEN>UA2611</GIVEN>
+      <GIVEN>UA2612A14N</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.05</FOR>
+      <GIVEN>1R4604</GIVEN>
+      <GIVEN>1R4638</GIVEN>
+      <GIVEN>S3-2311L</GIVEN>
+      <GIVEN>S3-2311S</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.06</FOR>
+      <GIVEN>1R4637</GIVEN>
+      <GIVEN>2R4605</GIVEN>
+      <GIVEN>S3-2301R</GIVEN>
+      <GIVEN>S3-2301S</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.07</FOR>
+      <GIVEN>1RN4401</GIVEN>
+      <GIVEN>S3-3402N</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.08</FOR>
+      <GIVEN>2RN4401</GIVEN>
+      <GIVEN>S3-3403M</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.09</FOR>
+      <GIVEN>1R4605</GIVEN>
+      <GIVEN>2R4637</GIVEN>
+      <GIVEN>S3-2301K</GIVEN>
+      <GIVEN>S3-2301X</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.10</FOR>
+      <GIVEN>2R4604</GIVEN>
+      <GIVEN>2R4638</GIVEN>
+      <GIVEN>S3-2206W</GIVEN>
+      <GIVEN>S3-2206X</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>23-90-81.11</FOR>
+      <GIVEN>2R4634</GIVEN>
+      <GIVEN>S3-2304N</GIVEN>
+      <GIVEN>S3-3403W</GIVEN>
+      <GIVEN>UA4634</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R2601</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R2603A22N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R2620</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R2621A20N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R2632</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R2633A20N</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R4604</FOR>
+      <TABLE>0.0016 0.9984 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R4605</FOR>
+      <TABLE>0.0028 0.9972 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R4622</FOR>
+      <TABLE>0.0004 0.9996 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R4624</FOR>
+      <TABLE>0.0011 0.9989 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R4634</FOR>
+      <TABLE>0.0011 0.9989 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R4637</FOR>
+      <TABLE>0.002 0.998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2R4638</FOR>
+      <TABLE>0.0023 0.9977 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RN4401</FOR>
+      <TABLE>0.0021 0.9979 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RV2001</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RV2002</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RV4004</FOR>
+      <TABLE>0.0017 0.9983 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ2001</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ2003A22N</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4203</FOR>
+      <TABLE>0.0015 0.9985 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4204</FOR>
+      <TABLE>0.0013 0.9987 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4205</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4207</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4213</FOR>
+      <TABLE>0.001 0.999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4214</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4215</FOR>
+      <TABLE>0.0004 0.9996 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4260</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4261</FOR>
+      <TABLE>0.0013 0.9987 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>2RZ4262</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>3RZ4203</FOR>
+      <TABLE>0.0011 0.9989 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>3RZ4204</FOR>
+      <TABLE>0.0017 0.9983 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>3Z2407</FOR>
+      <TABLE>0.0034 0.9966 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>A3-2301</FOR>
+      <TABLE>0.041 0.959 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2219</FOR>
+      <TABLE>0.0016 0.9984 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2261</FOR>
+      <TABLE>0.0026 0.9974 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2262</FOR>
+      <TABLE>0.0013 0.9987 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2263</FOR>
+      <TABLE>0.0021 0.9979 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2264</FOR>
+      <TABLE>0.0024 0.9976 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2301</FOR>
+      <TABLE>0.002 0.998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2302</FOR>
+      <TABLE>0.0024 0.9976 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2312</FOR>
+      <TABLE>0.0014 0.9986 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2313</FOR>
+      <TABLE>0.0028 0.9972 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2316</FOR>
+      <TABLE>0.0023 0.9977 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2317</FOR>
+      <TABLE>0.0024 0.9976 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>B1-2318</FOR>
+      <TABLE>0.0038 0.9962 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>C6-2301</FOR>
+      <TABLE>0.0018 0.9982 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>C6-2302</FOR>
+      <TABLE>0.0007 0.9993 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>C6-2303</FOR>
+      <TABLE>0.0015 0.9985 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>C6-2304</FOR>
+      <TABLE>0.0016 0.9984 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>H3-2304</FOR>
+      <TABLE>0.373 0.627 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>H3-2305</FOR>
+      <TABLE>0.3828 0.6172 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>H3-2306</FOR>
+      <TABLE>0.375 0.625 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>H4-2303</FOR>
+      <TABLE>0.0731 0.9269 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>H4-2304</FOR>
+      <TABLE>0.0745 0.9255 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>H4-2305</FOR>
+      <TABLE>0.0701 0.9299 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>J1-2301</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>J1-2302</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>J1-2303</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-1013</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-1015</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2260A</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2260D</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2305</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2306</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2307</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2309</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2310</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2312</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2313</FOR>
+      <TABLE>0.0004 0.9996 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2314</FOR>
+      <TABLE>0.0008 0.9992 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2317</FOR>
+      <TABLE>0.0009 0.9991 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2318</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2356</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2372</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P1-2374</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P6-2301</FOR>
+      <TABLE>0.0029 0.9971 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P6-2302</FOR>
+      <TABLE>0.0018 0.9982 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>P6-2303</FOR>
+      <TABLE>0.0026 0.9974 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2301</FOR>
+      <TABLE>0.0004 0.9996 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2302</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2308A</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2308B</FOR>
+      <TABLE>0.0002 0.9998 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2309A</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2309B</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2371</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>R5-2373</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S1-2301</FOR>
+      <TABLE>0.0033 0.9967 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S1-2302</FOR>
+      <TABLE>0.0044 0.9956 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2206W</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2206X</FOR>
+      <TABLE>0.0009 0.9991 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2301K</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2301R</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2301S</FOR>
+      <TABLE>0.0008 0.9992 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2301X</FOR>
+      <TABLE>0.0007 0.9993 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2302S</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2303P</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2303S</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2303V</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2303W</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2304N</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2304R</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2304U</FOR>
+      <TABLE>0.0007 0.9993 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2311L</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-2311S</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-3103U</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-3204</FOR>
+      <TABLE>0.0007 0.9993 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-3402N</FOR>
+      <TABLE>0.0004 0.9996 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-3403M</FOR>
+      <TABLE>0.0009 0.9991 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>S3-3403W</FOR>
+      <TABLE>0.0007 0.9993 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>U1-2301</FOR>
+      <TABLE>0.0379 0.9621 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>U1-2302</FOR>
+      <TABLE>0.0375 0.9625 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>U1-2320</FOR>
+      <TABLE>0.0785 0.9215 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>U1-2321</FOR>
+      <TABLE>0.0752 0.9248 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>U1-2334</FOR>
+      <TABLE>0.0708 0.9292 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>U1-2336</FOR>
+      <TABLE>0.0508 0.9492 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>U1-2337</FOR>
+      <TABLE>0.0514 0.9486 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2605</FOR>
+      <TABLE>0.0005 0.9995 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2606A14N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2607</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2608A14N</FOR>
+      <TABLE>0.0001 0.9999 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2609</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2610A14N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2611</FOR>
+      <TABLE>0.0006 0.9994 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA2612A14N</FOR>
+      <TABLE>1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA4611A</FOR>
+      <TABLE>0.0017 0.9983 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA4611G</FOR>
+      <TABLE>0.0013 0.9987 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UA4634</FOR>
+      <TABLE>0.0003 0.9997 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>UI-2338</FOR>
+      <TABLE>0.0272 0.9728 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test01</FOR>
+      <GIVEN>23-90-11.01</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test02</FOR>
+      <GIVEN>23-90-11.02</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test03</FOR>
+      <GIVEN>23-11-01-00.01</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test04</FOR>
+      <GIVEN>23-11-01-00.02</GIVEN>
+      <TABLE>1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test05</FOR>
+      <GIVEN>23-81-01-00.01</GIVEN>
+      <GIVEN>23-81-01-00.02</GIVEN>
+      <GIVEN>23-90-81.01</GIVEN>
+      <GIVEN>23-90-81.02</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test06</FOR>
+      <GIVEN>23-81-01-00.01</GIVEN>
+      <GIVEN>23-81-01-00.02</GIVEN>
+      <GIVEN>23-90-81.01</GIVEN>
+      <GIVEN>23-90-81.02</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test11</FOR>
+      <GIVEN>23-07-01-00.03</GIVEN>
+      <GIVEN>23-11-00-00.18</GIVEN>
+      <GIVEN>23-11-00-00.28</GIVEN>
+      <GIVEN>23-81-01-00.01</GIVEN>
+      <GIVEN>23-81-01-00.02</GIVEN>
+      <GIVEN>23-90-07.01</GIVEN>
+      <GIVEN>23-90-81.01</GIVEN>
+      <GIVEN>23-90-81.02</GIVEN>
+      <GIVEN>23-90-81.05</GIVEN>
+      <GIVEN>23-90-81.06</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test12</FOR>
+      <GIVEN>23-07-01-00.01</GIVEN>
+      <GIVEN>23-11-00-00.50</GIVEN>
+      <GIVEN>23-11-00-00.58</GIVEN>
+      <GIVEN>23-81-01-00.01</GIVEN>
+      <GIVEN>23-81-01-00.02</GIVEN>
+      <GIVEN>23-90-07.02</GIVEN>
+      <GIVEN>23-90-81.01</GIVEN>
+      <GIVEN>23-90-81.02</GIVEN>
+      <GIVEN>23-90-81.09</GIVEN>
+      <GIVEN>23-90-81.10</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test13</FOR>
+      <GIVEN>23-07-01-00.03</GIVEN>
+      <GIVEN>23-11-00-00.18</GIVEN>
+      <GIVEN>23-11-00-00.28</GIVEN>
+      <GIVEN>23-90-07.01</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test14</FOR>
+      <GIVEN>23-07-01-00.01</GIVEN>
+      <GIVEN>23-11-00-00.50</GIVEN>
+      <GIVEN>23-11-00-00.58</GIVEN>
+      <GIVEN>23-90-07.02</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test15</FOR>
+      <GIVEN>23-51-07-00.01</GIVEN>
+      <GIVEN>23-51-10-01.01</GIVEN>
+      <GIVEN>23-51-10-02.01</GIVEN>
+      <GIVEN>23-90-50.19</GIVEN>
+      <GIVEN>23-90-50.21</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test16</FOR>
+      <GIVEN>23-51-07-00.02</GIVEN>
+      <GIVEN>23-51-10-01.02</GIVEN>
+      <GIVEN>23-51-10-02.02</GIVEN>
+      <GIVEN>23-90-50.23</GIVEN>
+      <GIVEN>23-90-50.24</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test17</FOR>
+      <GIVEN>23-51-07-00.03</GIVEN>
+      <GIVEN>23-51-10-01.03</GIVEN>
+      <GIVEN>23-51-10-02.03</GIVEN>
+      <GIVEN>23-90-50.28</GIVEN>
+      <GIVEN>23-90-50.29</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test18</FOR>
+      <GIVEN>23-51-05-00.01</GIVEN>
+      <GIVEN>23-90-50.17</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test19</FOR>
+      <GIVEN>23-51-05-00.02</GIVEN>
+      <GIVEN>23-90-50.22</GIVEN>
+      <TABLE>0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test20</FOR>
+      <GIVEN>23-51-05-00.03</GIVEN>
+      <GIVEN>23-90-50.27</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test21</FOR>
+      <GIVEN>23-90-11.06</GIVEN>
+      <GIVEN>23-90-81.03</GIVEN>
+      <GIVEN>23-90-81.04</GIVEN>
+      <GIVEN>23-90-81.07</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test22</FOR>
+      <GIVEN>23-90-81.03</GIVEN>
+      <GIVEN>23-90-81.04</GIVEN>
+      <GIVEN>23-90-81.08</GIVEN>
+      <GIVEN>23-90-81.11</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test25</FOR>
+      <GIVEN>23-51-01-00.01</GIVEN>
+      <GIVEN>23-51-03-00.01</GIVEN>
+      <GIVEN>23-51-07-00.01</GIVEN>
+      <GIVEN>23-51-10-01.01</GIVEN>
+      <GIVEN>23-51-10-02.01</GIVEN>
+      <GIVEN>23-51-10-03.01</GIVEN>
+      <GIVEN>23-90-11.10</GIVEN>
+      <GIVEN>23-90-50.01</GIVEN>
+      <GIVEN>23-90-50.14</GIVEN>
+      <GIVEN>23-90-50.18</GIVEN>
+      <GIVEN>23-90-50.19</GIVEN>
+      <GIVEN>23-90-50.20</GIVEN>
+      <GIVEN>23-90-50.21</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test26</FOR>
+      <GIVEN>23-51-01-00.02</GIVEN>
+      <GIVEN>23-90-11.11</GIVEN>
+      <GIVEN>23-90-50.02</GIVEN>
+      <GIVEN>23-90-50.15</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test27</FOR>
+      <GIVEN>23-51-03-00.02</GIVEN>
+      <GIVEN>23-51-07-00.02</GIVEN>
+      <GIVEN>23-51-10-01.02</GIVEN>
+      <GIVEN>23-51-10-02.02</GIVEN>
+      <GIVEN>23-51-10-03.02</GIVEN>
+      <GIVEN>23-90-50.23</GIVEN>
+      <GIVEN>23-90-50.24</GIVEN>
+      <GIVEN>23-90-50.25</GIVEN>
+      <GIVEN>23-90-50.26</GIVEN>
+      <TABLE>0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 0.5 0.5 0.5 0.5 1.0 0.0 0.5 0.5 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test29</FOR>
+      <GIVEN>23-11-05-00.01</GIVEN>
+      <GIVEN>23-90-11.05</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>test30</FOR>
+      <GIVEN>23-11-05-00.02</GIVEN>
+      <GIVEN>23-90-11.09</GIVEN>
+      <TABLE>1.0 0.0 1.0 0.0 1.0 0.0 0.0 1.0 </TABLE>
+    </DEFINITION>
+  </NETWORK>
+</BIF>
